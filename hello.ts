@@ -1,3 +1,6 @@
+// code samples used in the blog post https://blog.chinmoymohanty.com/2019/11/17/functional-programming-you-probably-already-know-it/
+// Code samples used in the article https://www.codeproject.com/Articles/5271867/Functional-Programming-You-Probably-Already-Know-I
+
 // Functions as First-Class Citizens
 var funcAdd = (a: number, b: number): number => {
     return a + b;
